@@ -1,2 +1,20 @@
-# phone_finder
-Phone Finder — A powerful Python OSINT tool for phone number analysis. Extracts carrier, region, timezone, validation info, and automatically finds real geographic coordinates (latitude &amp; longitude)
+# 📱 Phone Finder
+
+**Advanced Phone Number OSINT Tool** built with Python
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+A powerful and easy-to-use phone number intelligence tool that extracts carrier, region, timezone, and **real geographic coordinates**.
+
+---
+
+## ✨ Features
+
+- **Accurate Phone Parsing** 
+- **Carrier & Region Detection**
+- **Timezone Information**
+- **Real Coordinates** — Latitude & Longitude
+- **Google Maps Direct Link**
+- **CLI Support** (single number or bulk)
+
+---
