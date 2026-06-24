@@ -18,3 +18,8 @@ A powerful and easy-to-use phone number intelligence tool that extracts carrier,
 - **CLI Support** (single number or bulk)
 
 ---
+##🚀 Installation
+'''bash
+git clone https://github.com/yourusername/phone-finder.git
+cd phone-finder
+python setup.py
